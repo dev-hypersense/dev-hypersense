@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev-hypersense
-- 👀 I’m an emerging software company.
-- 🌱 I’m currently working on transforming world
+- 👀 
+- 🌱 
 - 📫 
 
 <!---
